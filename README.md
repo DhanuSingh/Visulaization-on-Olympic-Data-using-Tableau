@@ -1,1 +1,2 @@
 # Visulaization-on-Olympic-Data-using-Tableau
+As a part of our course Visual Analytics at University of Sydney, we made a visualization on olympic medal tally data. The dataset had numerous countries olympic medal count. It also had attributes like gender, year the medal was won etc. I used parallel coordinates and area chart continuous layouts to visualize the data. The aim of the visualizations was to see the effect of various geopolitical phenomenas on the medal tally (formulated as Task 2 in the report).
